@@ -1,0 +1,6 @@
+rootProject.name = 'N-JavaCore-Maven-Gradle-HW-Gradle'
+
+include 'api'
+include 'db'
+include 'service'
+
